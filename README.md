@@ -4,8 +4,8 @@ Mesure de la charge mentale grâce à un bandeau EEG (MUSE) lors de la réalisat
 # Analyse de variance à deux facteur
 
 Etude de l'influence de X1 et X2 sur Y avec :
-  X1: La musique stimulante(Qualitative)
-  X2: La musique sédative (Qualitative)
+  X1: La musique stimulante(Qualitative),
+  X2: La musique sédative (Qualitative),
   Y : La charge mentale lors de la réalisation d'une tâche de réflexion ( Quantitative)
  
 ## Etape 1 : Lecture du jeu de données
